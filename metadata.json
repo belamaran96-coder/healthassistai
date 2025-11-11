@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HealthAssist AI",
+  "description": "A secure, healthcare-focused chatbot designed to provide general health information and guidance using Google's Gemini AI.",
+  "requestFramePermissions": []
+}
